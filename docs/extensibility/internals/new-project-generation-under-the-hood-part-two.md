@@ -29,9 +29,10 @@ translation.priority.mt:
 - tr-tr
 - zh-cn
 - zh-tw
-translationtype: Machine Translation
+ms.translationtype: Machine Translation
 ms.sourcegitcommit: 5581224b17a7b42f65b69f741f984a144d78fc26
 ms.openlocfilehash: 859eeac9c2fd322dcf231e9c70fe83b92b099111
+ms.contentlocale: zh-tw
 ms.lasthandoff: 04/04/2017
 
 ---
@@ -134,7 +135,7 @@ namespace Simple
   
  所產生的 Windows 應用程式資料夾結構看起來像這樣︰  
   
- ![SimpleSolution](~/extensibility/internals/media/simplesolution.png "SimpleSolution")  
+ ![SimpleSolution](../../extensibility/internals/media/simplesolution.png "SimpleSolution")  
   
  第一個且唯一\<專案 > 中的範本讀取的標記︰  
   
