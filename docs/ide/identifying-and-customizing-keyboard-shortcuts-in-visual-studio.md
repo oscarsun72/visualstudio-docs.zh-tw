@@ -90,7 +90,7 @@ caps.handback.revision: 26
      例如，若要在所有的環境中使用該快速鍵，請選擇 \[**全域**\]。  您可以使用未在另一個編輯器中對應 \(為「全域」\) 的任何捷徑。  否則，編輯器會覆寫快速鍵。  
   
     > [!NOTE]
-    >  您在 \[**全域**\] 中無法指派下列按鍵做為鍵盤快速鍵的一部分：Print Scrn\/Sys Rq、Scroll Lock、Pause\/Break、Tab、Caps Lock、Insert、Home、End、Page Up、Page Down、Windows 標幟按鍵、應用程式鍵，任一個方向鍵或 Enter、Num Lock、Delete 或婁鍵台上的 Clear，或 Ctrl\+Alt\+Delete。  
+    >  您在 \[**全域**\] 中無法指派下列按鍵做為鍵盤快速鍵的一部分：Print Scrn\/Sys Rq、Scroll Lock、Pause\/Break、Tab、Caps Lock、Insert、Home、End、Page Up、Page Down、Windows 標幟按鍵、應用程式鍵，任一個方向鍵或 Enter、Num Lock、Delete 或數字鍵盤上的 Clear，或 Ctrl\+Alt\+Delete。  
   
 6.  在 \[**按快速鍵**\] 方塊中，輸入您要使用的捷徑。  
   
