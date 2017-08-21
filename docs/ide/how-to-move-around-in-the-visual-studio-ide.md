@@ -101,7 +101,7 @@ ms.lasthandoff: 05/24/2017
   
 ## 在 IDE 中的各個工具視窗之間巡覽
 <a id="navigating-among-tool-windows-in-the-ide" class="xliff"></a>  
- [IDE 瀏覽器] 可讓您循環瀏覽已在 IDE 中開啟的工具視窗。 您可使用兩個命令存取 [IDE 瀏覽器]，以依據所需的循環瀏覽順序，循環瀏覽檔案。 `Window.PreviousToolWindowNav` 可讓您移至最近存取的檔案，並`Window.NextToolWindowNav`可讓您依相反順序移動。 「一般開發設定」會將 SHIFT + ALT + F7 指派至 `Window.PreviousDocumentWindowNav`，並將 ALT + F7 指派至 `Window.NextDocumentWindowNav`。  
+ [IDE 瀏覽器] 可讓您循環瀏覽已在 IDE 中開啟的工具視窗。 您可使用兩個命令存取 [IDE 瀏覽器]，以依據所需的循環瀏覽順序，循環瀏覽檔案。 `Window.PreviousToolWindowNav` 可讓您移至最近存取的檔案，並`Window.NextToolWindowNav`可讓您依相反順序移動。 「一般開發設定」會將 SHIFT + ALT + F7 指派至 `Window.PreviousToolWindowNav`，並將 ALT + F7 指派至 `Window.NextToolWindowNav`。  
   
 > [!NOTE]
 >  若您使用的設定組合尚未將快速鍵組合指派至此命令，您可使用 [選項] 對話方塊的 [鍵盤] 頁面，指派專屬的自訂命令。 如需詳細資訊，請參閱[識別及自訂鍵盤快速鍵](../ide/identifying-and-customizing-keyboard-shortcuts-in-visual-studio.md)。  
